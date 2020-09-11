@@ -559,3 +559,9 @@ export const ADDRESS_TYPES = {
     CIDR: 'CIDR',
     UNKNOWN: 'UNKNOWN',
 };
+
+export const CACHE_CONFIG_FIELDS = {
+    cache_size: 'cache_size',
+    cache_ttl_min: 'cache_ttl_min',
+    cache_ttl_max: 'cache_ttl_max',
+};
